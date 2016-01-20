@@ -1,6 +1,6 @@
 # Fill Bar jQuery Plugins
 
-<!-- Use the following HTML markup -->
+<!-- Use the following HTML markup
 
 <div class="skills">
     <div class="skill skill1">
@@ -34,6 +34,7 @@
     </div>
 </div>
 
+-->
 
 # Include latest jQuery from jquery.com
 # Add the Fill-Bar jquery after that;
