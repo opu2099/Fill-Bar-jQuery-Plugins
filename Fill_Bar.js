@@ -1,4 +1,6 @@
-/* this is the jQuery you need to add */
+jQuery(document).redy(function () {
+  
+  /* this is the jQuery you need to add */
 
   var count_div=jQuery(".skills").length;
       for(var i=1;i<=count_div;i++){
@@ -9,3 +11,5 @@
           width: y+"%"
       },5000);
   }
+  
+})
